@@ -1,5 +1,5 @@
 # Introduction to machine learning
-The course is basic course, read by teachers of the Higher school of Economics on [Coursera](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
+The course is basic course, read by teachers of the Higher school of Economics on [Coursera.org](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
 
 ## Getting Started
 
@@ -19,8 +19,8 @@ A step by step instructions for get project and start development
 Clone the repository and execute the scripts in your IDEA (PyCharm /VScode / Spyder):
 
 ```sh
-$ git clone <git-project>
-$ cd <folder project>
+$ git clone git@github.com:ana-ya/python-machine-learning-course.git
+$ cd python-machine-learning-course
 ```
 
 ## Built With
